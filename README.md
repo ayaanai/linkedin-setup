@@ -1,4 +1,4 @@
-# Student LinkedIn Profile Setup
+# LinkedIn Profile Setup
 
 Turn any AI chat into a LinkedIn profile interviewer for students. Paste one file in, answer some questions, get a complete, click-by-click guide to your own profile back.
 
