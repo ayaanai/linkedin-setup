@@ -42,4 +42,4 @@ Improvements to the interview questions, the section playbooks, or the writing r
 
 ## License
 
-Not yet set, add one appropriate for reuse (MIT is a common default for this kind of content) before treating this as a stable public release.
+This project is licensed under the MIT License. See [LICENSE](LICENSE) for the full text.
