@@ -14,7 +14,7 @@ It's built from a real, hands-on profile edit, refined section by section until 
 2. Copy the entire file.
 3. Paste it as your first message into any AI chat.
 4. Answer the questions it asks you honestly and specifically, the more detail you give, the better the output.
-5. Get back an ordered Markdown checklist covering your whole profile, ready to work through top to bottom.
+5. Get back an ordered Markdown checklist covering your whole profile, ready to work through top to bottom (manual)
 
 No LinkedIn or career-coaching knowledge required going in. That's the point.
 
